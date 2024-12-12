@@ -1,3 +1,90 @@
-﻿  Main.cpp
-E:\Development\C++ Programming\My Projects\01. a Simple Ball Game\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(114,1): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
-  a Simple Ball Game.vcxproj -> E:\Development\C++ Programming\My Projects\01. a Simple Ball Game\a Simple Ball Game\x64\Debug\a Simple Ball Game.exe
+﻿  BallClass.cpp
+  goto X, Y.cpp
+F:\a Simple Ball Game\a Simple Ball Game\Functions\goto X, Y.cpp(8,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\a Simple Ball Game\a Simple Ball Game\Functions\goto X, Y.cpp(8,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Panel.cpp
+  Game_Runner.cpp
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(78,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(81,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(84,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(87,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(90,22): warning C4566: character represented by universal-character-name '\u2566' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(93,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(96,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(99,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(102,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(107,26): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(117,34): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(125,26): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1256)
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(114,28): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  (compiling source file 'Classes/Game_Runner.cpp')
+  
+  Main.cpp
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(78,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(81,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(84,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(87,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(90,22): warning C4566: character represented by universal-character-name '\u2566' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(93,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(96,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(99,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(102,22): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(107,26): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(117,34): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(125,26): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1256)
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Classes\Game_Runner.h(114,28): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  (compiling source file 'Source%20Code/Main.cpp')
+  
+F:\a Simple Ball Game\a Simple Ball Game\Source Code\Main.cpp(41,26): warning C4566: character represented by universal-character-name '\u25BA' cannot be represented in the current code page (1256)
+F:\a Simple Ball Game\a Simple Ball Game\Source Code\Main.cpp(57,26): warning C4566: character represented by universal-character-name '\u25BA' cannot be represented in the current code page (1256)
+F:\a Simple Ball Game\a Simple Ball Game\Source Code\Main.cpp(69,26): warning C4566: character represented by universal-character-name '\u25BA' cannot be represented in the current code page (1256)
+  Generating Code...
+  a Simple Ball Game.vcxproj -> F:\a Simple Ball Game\x64\Debug\a Simple Ball Game.exe

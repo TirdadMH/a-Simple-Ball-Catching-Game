@@ -1,2 +1,5 @@
-# A Simple Ball Catching Game
- This project is a simple game written in C++
+# A Simple Catch-the-ball the game
+
+**Catch the Ball** is a simple console game written in C++.
+
+
