@@ -8,7 +8,8 @@ void gotoxy(int, int); // this function takes screen pointer to x, y Cordinates.
 
 int main()
 {
-    SetConsoleOutputCP(6001);   // set fonts to UniCode.
+    SetConsoleOutputCP(CP_UTF8);   // set fonts to UniCode.
+    SetConsoleCP(CP_UTF8);
     system("Color 0B");         // set color to Black - light Blue.
     bool me1, me2, ini = false; // variables for the menu.
     me1 = me2 = false;

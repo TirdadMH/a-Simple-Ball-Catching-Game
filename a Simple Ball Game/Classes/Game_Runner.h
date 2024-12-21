@@ -111,7 +111,7 @@ public:
         {
             for (int i = 0; i < 40; i++)
             {
-                if (i == 0 | i == 39)
+                if (i == 0 || i == 39)
                 {
                     gotoxy(i, j);
                     std::cout << "\u2588";

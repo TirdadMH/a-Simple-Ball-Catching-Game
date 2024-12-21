@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\a Simple Ball Game\\",
+  "WorkspaceRootPath": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|F:\\a Simple Ball Game\\a Simple Ball Game\\Source Code\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Source Code\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|solutionrelative:a Simple Ball Game\\Source Code\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|F:\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Game_Runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Game_Runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|solutionrelative:a Simple Ball Game\\Classes\\Game_Runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|F:\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|solutionrelative:a Simple Ball Game\\Classes\\Panel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|F:\\a Simple Ball Game\\a Simple Ball Game\\Classes\\BallClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Classes\\BallClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|solutionrelative:a Simple Ball Game\\Classes\\BallClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|F:\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\variables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\variables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|solutionrelative:a Simple Ball Game\\Header Files\\variables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|F:\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\Libraries.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\Libraries.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7CF506A0-60AE-4508-A6E9-A8804BC4FCCD}|a Simple Ball Game\\a Simple Ball Game.vcxproj|solutionrelative:a Simple Ball Game\\Header Files\\Libraries.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -40,23 +40,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "F:\\a Simple Ball Game\\a Simple Ball Game\\Source Code\\Main.cpp",
+              "DocumentMoniker": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Source Code\\Main.cpp",
               "RelativeDocumentMoniker": "a Simple Ball Game\\Source Code\\Main.cpp",
-              "ToolTip": "F:\\a Simple Ball Game\\a Simple Ball Game\\Source Code\\Main.cpp",
+              "ToolTip": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Source Code\\Main.cpp",
               "RelativeToolTip": "a Simple Ball Game\\Source Code\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-12T17:11:42.819Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Libraries.h",
-              "DocumentMoniker": "F:\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\Libraries.h",
+              "DocumentMoniker": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\Libraries.h",
               "RelativeDocumentMoniker": "a Simple Ball Game\\Header Files\\Libraries.h",
-              "ToolTip": "F:\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\Libraries.h",
+              "ToolTip": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\Libraries.h",
               "RelativeToolTip": "a Simple Ball Game\\Header Files\\Libraries.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -66,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "variables.h",
-              "DocumentMoniker": "F:\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\variables.h",
+              "DocumentMoniker": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\variables.h",
               "RelativeDocumentMoniker": "a Simple Ball Game\\Header Files\\variables.h",
-              "ToolTip": "F:\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\variables.h",
+              "ToolTip": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Header Files\\variables.h",
               "RelativeToolTip": "a Simple Ball Game\\Header Files\\variables.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -78,37 +82,44 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BallClass.h",
-              "DocumentMoniker": "F:\\a Simple Ball Game\\a Simple Ball Game\\Classes\\BallClass.h",
+              "DocumentMoniker": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Classes\\BallClass.h",
               "RelativeDocumentMoniker": "a Simple Ball Game\\Classes\\BallClass.h",
-              "ToolTip": "F:\\a Simple Ball Game\\a Simple Ball Game\\Classes\\BallClass.h",
+              "ToolTip": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Classes\\BallClass.h",
               "RelativeToolTip": "a Simple Ball Game\\Classes\\BallClass.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-12T17:11:42.888Z"
+              "WhenOpened": "2024-12-12T17:11:42.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Panel.h",
-              "DocumentMoniker": "F:\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Panel.h",
+              "DocumentMoniker": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Panel.h",
               "RelativeDocumentMoniker": "a Simple Ball Game\\Classes\\Panel.h",
-              "ToolTip": "F:\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Panel.h",
+              "ToolTip": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Panel.h",
               "RelativeToolTip": "a Simple Ball Game\\Classes\\Panel.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-12T17:11:42.889Z"
+              "WhenOpened": "2024-12-12T17:11:42.889Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Game_Runner.h",
-              "DocumentMoniker": "F:\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Game_Runner.h",
+              "DocumentMoniker": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Game_Runner.h",
               "RelativeDocumentMoniker": "a Simple Ball Game\\Classes\\Game_Runner.h",
-              "ToolTip": "F:\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Game_Runner.h",
+              "ToolTip": "D:\\Libraries\\Documents\\Personal Documents\\Development\\C\u002B\u002B Programming\\My Projects\\01. a Simple Ball Game\\a Simple Ball Game\\a Simple Ball Game\\Classes\\Game_Runner.h",
               "RelativeToolTip": "a Simple Ball Game\\Classes\\Game_Runner.h",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAIAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAGUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-12T17:11:43.004Z"
+              "WhenOpened": "2024-12-12T17:11:43.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
